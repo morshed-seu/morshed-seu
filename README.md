@@ -9,3 +9,5 @@ Hi, I am Morshed Alam, a Computer Science Grad and Software Engineer based on Dh
 - 💬 Ask me about anything [here](https://github.com/MorshedAlamRaju/MorshedAlamRaju/issues)
 - 📫 How to reach me: [Morshed](https://www.linkedin.com/in/morshed-seu)
 - 😄 Pronouns: He\Him\His
+
+![](https://komarev.com/ghpvc/?username=MorshedAlamRaju&color=blue)
