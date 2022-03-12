@@ -1,4 +1,4 @@
-### Hi there, I'm [Morshed!](https://www.linkedin.com/in/morshed-seu) 👋
+### Hi there, I'm [Morshed!](https://morshedalamraju.github.io/) 👋
 
 Hi, I am Morshed Alam, a Computer Science Grad and Software Engineer based on Dhaka, Bangladesh.
 
